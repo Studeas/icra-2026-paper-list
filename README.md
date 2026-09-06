@@ -1,4 +1,8 @@
-[View the interactive paper list](https://studeas.github.io/icra-2026-papers/)
+# ICRA 2026 Paper List
+
+[Explore the interactive paper list ↗](https://studeas.github.io/icra-2026-papers/) to search by title, author, or keyword, filter by session type, and export results as CSV.
+
+An unofficial index of 2,951 papers from the ICRA 2026 technical program, with 1,655 verified arXiv links. The table below lists every paper; the interactive page also includes authors and keywords. `pdf ↗` links directly to an arXiv PDF; `-` means a reliable match has not yet been confirmed.
 
 | # | Paper | PDF |
 | ---: | :--- | :--- |
